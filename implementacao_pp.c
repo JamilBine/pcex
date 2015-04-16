@@ -47,10 +47,7 @@ int main() {
 
 	for(i = 0; i < l; i++) {
 		for(j = 0; j < c; j++) {
-			escalaCinza(vetorImagem,cinza,	funcao(l, j, c);		
+			escalaCinza(vetorImagem,cinza,	funcao(l, j, c));		
 		}
 	}
-
-
-	
 }
